@@ -1,0 +1,19 @@
+Git
+-------------------
+
+WorkDirectory--->(add)-->Stagging-->(commit)-->LocalRepository-->(push/pull)-->OnlineRepository
+
+1. Download Git and Install Git 
+
+2. Some Git Commonds
+	git init
+	git status
+	git add <fileName.extension>
+	git config --global user.email "<email>"
+	git config --global user.name "<name>"
+	git commit -m "<this is my first commit>"
+	git clear (to clear page)
+	git log (to see all commits)
+
+3. Modificationin file
+	git commit -a -m "<both files are modified>"
